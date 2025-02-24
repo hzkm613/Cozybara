@@ -1,7 +1,6 @@
 #  🍀 Cozybara
 
-[Repository](https://github.com/epellini/Game-Cozybara) | [Itch.io](https://enricop7.itch.io/cozybara) | [LinkedIn](https://www.linkedin.com/posts/hynujinkim_cozybara-varlab-gamedevelopment-activity-7125139263658094592-jiD-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8QRQUBPwIAdbEJqiKEoBB8dFRwrZHq4Cs)
-Date: Oct 27, 2023
+[Repository](https://github.com/epellini/Game-Cozybara) | [Itch.io](https://enricop7.itch.io/cozybara) | [LinkedIn](https://www.linkedin.com/posts/hynujinkim_cozybara-varlab-gamedevelopment-activity-7125139263658094592-jiD-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8QRQUBPwIAdbEJqiKEoBB8dFRwrZHq4Cs) | Date: Oct 27, 2023
 
 📌 **Overview:**
 
